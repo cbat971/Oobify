@@ -32,9 +32,9 @@ products_info = [
         "id": "101",
         "name": "Logo Shirt, Red",
         "img": "shirt-101.jpg",
-        "price": 18,
+        "price": 25,
         "paypal": "LNRBY7XSXS5PA",
-        "sizes": ["Small", "Medium", "Large"]
+        "sizes": ["Kids Small", "Kids Medium", "Kids Large", "Small", "Medium", "Large"]
     },
 
     {
