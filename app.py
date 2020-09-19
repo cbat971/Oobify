@@ -30,7 +30,7 @@ with open(sendgrid_file) as f:
 products_info = [
     {
         "id": "101",
-        "name": "Logo Shirt, Red",
+        "name": "Underrated Powers #4, Stop Motion",
         "img": "shirt-101.jpg",
         "price": 25,
         "paypal": "LNRBY7XSXS5PA",
