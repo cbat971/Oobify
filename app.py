@@ -16,8 +16,8 @@ from datetime import date
 
 # App setup
 app = Flask(__name__)
-app.config["SECRET_KEY"] = "some_really_long_random_string_here"
-
+app.config["SECRET_KEY"] = "sdlfkjsaoi4ljsdfk4okjsdlfkj"
+'''
 # Get details for sendgrid details
 sendgrid_file = "sendgrid.txt"
 sendgrid_details = []
@@ -25,7 +25,7 @@ sendgrid_details = []
 with open(sendgrid_file) as f:
     sendgrid_details = f.readlines()
     sendgrid_details = [x.strip("\n") for x in sendgrid_details]
-
+'''
 # Global Variables
 products_info = [
     {
@@ -198,7 +198,7 @@ def contact():
     context = {"page_title": "Shirts 4 Mike", "current_year": date.today().year}
     return render_template("contact.html", **context)
 
-
+'''
 # Route to send email
 @app.route("/send", methods=['POST'])
 def send():
@@ -216,7 +216,7 @@ def send():
     sendgrid_object.send(message)
     flash("Email sent.")
     return redirect(url_for("contact"))
-
+'''
 
 # Run application
 if __name__ == "__main__":
