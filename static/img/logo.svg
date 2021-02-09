@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1806"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs1800" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45936452"
+     inkscape:cx="649.80276"
+     inkscape:cy="614.69943"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata1803">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1209"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.661995"
+       d="m 103.91419,65.582168 a 49.167748,49.167748 0 0 0 -49.16744,49.167422 49.167748,49.167748 0 0 0 49.16744,49.1685 49.167748,49.167748 0 0 0 49.16745,-49.1685 49.167748,49.167748 0 0 0 -49.16745,-49.167422 z m -0.0417,7.490395 a 41.677801,41.677801 0 0 1 0.0417,0 41.677801,41.677801 0 0 1 41.67787,41.677027 41.677801,41.677801 0 0 1 -41.67787,41.6781 41.677801,41.677801 0 0 1 -41.678319,-41.6781 41.677801,41.677801 0 0 1 41.632279,-41.677027 z"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.451284"
+       id="rect1211"
+       width="15.183121"
+       height="15.183121"
+       x="96.139091"
+       y="106.64096"
+       rx="1.5522958"
+       ry="1.5522958"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <path
+       id="path1213"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.57487"
+       d="M 327.4082 357.30078 C 321.97747 357.30078 317.61523 361.66983 317.61523 367.09961 L 317.61523 496.38281 C 317.61523 501.8135 321.98343 506.17969 327.4082 506.17969 L 456.69531 506.17969 C 462.12593 506.17969 466.49219 501.81146 466.49219 496.38281 L 466.49219 367.09961 C 466.49219 361.66893 462.12506 357.30078 456.69531 357.30078 L 327.4082 357.30078 z M 350.08398 383.3457 L 434.02148 383.3457 C 437.58165 383.3457 440.44922 386.21316 440.44922 389.77344 L 440.44922 473.70898 C 440.44922 477.26926 437.58165 480.13672 434.02148 480.13672 L 350.08398 480.13672 C 346.52383 480.13672 343.65625 477.26926 343.65625 473.70898 L 343.65625 389.77344 C 343.65625 386.21316 346.52383 383.3457 350.08398 383.3457 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect1227"
+       width="9.5953217"
+       height="21.798601"
+       x="98.93322"
+       y="79.563309"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <path
+       id="path1281"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.945974"
+       d="m 103.91419,44.490325 a 70.259554,70.259554 0 0 0 -70.259249,70.259245 70.259554,70.259554 0 0 0 70.259249,70.26032 70.259554,70.259554 0 0 0 70.25922,-70.26032 70.259554,70.259554 0 0 0 -70.25922,-70.259245 z m -0.0436,10.703428 a 59.556595,59.556595 0 0 1 0.0436,0 59.556595,59.556595 0 0 1 59.55668,59.555817 59.556595,59.556595 0 0 1 -59.55668,59.55688 59.556595,59.556595 0 0 1 -59.557554,-59.55688 59.556595,59.556595 0 0 1 59.491794,-59.555817 z"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <path
+       id="path1285"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.743733"
+       d="m 103.91419,59.511213 a 55.238561,55.238561 0 0 0 -55.238202,55.238377 55.238561,55.238561 0 0 0 55.238202,55.23945 55.238561,55.238561 0 0 0 55.23818,-55.23945 55.238561,55.238561 0 0 0 -55.23818,-55.238377 z m -0.0417,8.415488 a 46.823821,46.823821 0 0 1 0.0417,0 46.823821,46.823821 0 0 1 46.82396,46.822889 46.823821,46.823821 0 0 1 -46.82396,46.82397 46.823821,46.823821 0 0 1 -46.824374,-46.82397 46.823821,46.823821 0 0 1 46.772694,-46.822889 z"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <path
+       id="path1303"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01121"
+       d="M 103.91419,39.64507 A 75.104866,75.104866 0 0 0 28.80966,114.7496 75.104866,75.104866 0 0 0 103.91419,189.85514 75.104866,75.104866 0 0 0 179.0187,114.7496 75.104866,75.104866 0 0 0 103.91419,39.64507 Z m -0.0418,11.441468 a 63.663795,63.663795 0 0 1 0.0418,0 A 63.663795,63.663795 0 0 1 167.5781,114.7496 63.663795,63.663795 0 0 1 103.91419,178.41367 63.663795,63.663795 0 0 1 40.249472,114.7496 63.663795,63.663795 0 0 1 103.84393,51.086538 Z"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2470"
+       width="9.5953217"
+       height="21.798601"
+       x="84.035698"
+       y="79.563309"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2472"
+       width="9.5953217"
+       height="21.798601"
+       x="113.83073"
+       y="79.563309"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2504"
+       width="9.5953217"
+       height="21.798601"
+       x="98.93322"
+       y="127.54996"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2506"
+       width="9.5953217"
+       height="21.798601"
+       x="84.035698"
+       y="127.54996"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2508"
+       width="9.5953217"
+       height="21.798601"
+       x="113.83073"
+       y="127.54996"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2510"
+       width="9.5953217"
+       height="21.798601"
+       x="109.65828"
+       y="-138.6235"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2512"
+       width="9.5953217"
+       height="21.798601"
+       x="94.760757"
+       y="-138.6235"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2514"
+       width="9.5953217"
+       height="21.798601"
+       x="124.55579"
+       y="-138.6235"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2516"
+       width="9.5953217"
+       height="21.798601"
+       x="109.65828"
+       y="-90.636848"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2518"
+       width="9.5953217"
+       height="21.798601"
+       x="94.760757"
+       y="-90.636848"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87911"
+       id="rect2520"
+       width="9.5953217"
+       height="21.798601"
+       x="124.55579"
+       y="-90.636848"
+       rx="4.7976608"
+       ry="4.7976608"
+       inkscape:export-filename="/home/cbat/Documents/programming/Tesla4DExperience/Tesla4D/static/logo.png"
+       inkscape:export-xdpi="158.85461"
+       inkscape:export-ydpi="158.85461"
+       transform="rotate(90)" />
+  </g>
+</svg>
