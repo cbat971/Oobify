@@ -11,6 +11,10 @@ def index():
     return render_template('index.html')
 
 
+@app.route('/ShowSupport', methods=['GET', 'POST'])
+def ShowSupport():
+    return render_template('support.html')
+
 @app.route('/results', methods=['GET', 'POST'])
 def results():
         phrase_to_parse = request.form["nm"]
@@ -18,6 +22,7 @@ def results():
         global parsed_phrase
         parsed_phrase = oobify(phrase_to_parse)
         return render_template('results.html', parsed_phrase = parsed_phrase)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
